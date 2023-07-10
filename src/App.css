@@ -4,6 +4,27 @@
   padding: 2rem;
   text-align: center;
 }
+.App {
+  text-align: center;
+}
+
+.tittle {
+  font-size: 30px;
+  color: #955252;
+  margin-bottom: 10px;
+}
+
+.clock {
+  font-size: 45px;
+  color: #af0a0a;
+}
+
+body {
+  background-image: url("https://www.bibalex.org/SCIplanet/Attachments/Article/MediumImage/4109588888888888888888888888.jpg_2017010511184092977.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
 
 .logo {
   height: 6em;
